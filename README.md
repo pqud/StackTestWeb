@@ -1,5 +1,5 @@
 # 사용한 기술 스택
-![Uploading 다이어그램.drawio.png…]()
+![Image](https://github.com/user-attachments/assets/b1d55d8c-628e-4084-a88b-95886b39bd8b)
 
 
 
