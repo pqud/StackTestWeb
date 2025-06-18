@@ -1,3 +1,12 @@
+# 사용한 기술 스택
+![Uploading 다이어그램.drawio.png…]()
+
+
+
+---
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
